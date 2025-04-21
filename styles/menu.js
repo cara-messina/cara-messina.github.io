@@ -26,11 +26,11 @@ document.write('\
    \</div>\
    \</li>\
       \
-  <li><a href="/writing/index.html">Writing</a></li>\
+  <li><a href="/writing/index.html">Publications</a></li>\
       \
   <li><a href="http://www.criticalfantoolkit.org">Critical Fan Toolkit</a></li>\
       \
-  <li><a href="https://github.com/caramessina">GitHub</a></li>\
+  <li><a href="https://github.com/cara-messina">GitHub</a></li>\
   \
 </ul>\
 ')
